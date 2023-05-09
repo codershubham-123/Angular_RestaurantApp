@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "Apna sweet",
+      "email": "apna@gmail.com",
+      "mobile": "564738922",
+      "address": "Front line ",
+      "services": "poha, itali"
+    },
+    {
+      "id": 5,
+      "name": "Albaik Hotel",
+      "email": "albaik@gmail.com",
+      "mobile": "6574849956",
+      "address": "Moosanagar",
+      "services": "chai & kofee"
+    },
+    {
+      "id": 8,
+      "name": "Sai hotel",
+      "email": "sai@gmail.com",
+      "mobile": "0000000000",
+      "address": "mumbai",
+      "services": "freee"
+    }
+  ],
+  "signup": [
+    {
+      "name": "shubham",
+      "email": "shubham@gmail.com",
+      "mobile": "675849394",
+      "passwoed": "",
+      "id": 1
+    },
+    {
+      "name": "shubham",
+      "email": "shubham@gmail.com",
+      "mobile": "4567387878",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "aman",
+      "email": "aman@gmail.com",
+      "mobile": "6348993764",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "name": "shubham",
+      "email": "shubham@gmail.com",
+      "mobile": "2345788888",
+      "password": "shubham1`23",
+      "id": 6
+    },
+    {
+      "name": "shubham",
+      "email": "shubham@gmail.com",
+      "mobile": "23457889",
+      "password": "shubham123",
+      "id": 7
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
